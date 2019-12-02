@@ -76,5 +76,10 @@ public class HomeController {
 		return "tables";
 	}
 	
+	@RequestMapping("test")
+	public String test() {
+		return "test";
+	}
+	
 	
 }
