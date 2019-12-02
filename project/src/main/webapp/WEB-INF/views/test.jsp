@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>다각형에 이벤트 등록하기2</title>
+    <title>다각형에 이벤트 등록하기</title>
     <style>
 .area {
     position: absolute;
