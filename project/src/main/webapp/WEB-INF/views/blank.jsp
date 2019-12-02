@@ -38,7 +38,7 @@
 
 	<div id="wrapper">
 
-		<c:import url="./public/sidebsr.jsp" />
+		<c:import url="./public/sidebar.jsp" />
 
 		<div id="content-wrapper">
 
